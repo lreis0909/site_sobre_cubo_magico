@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: bordex-box;
+    font-family: 'Candara';
+    text-align: justify;
+}
+
+html {
+    overflow-x:hidden
+}
+
+.section{
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+}
+
+
+#link_byron {
+    padding: .1rem .4rem;
+    border: .01rem solid white;
+}
+
+#logo {
+    max-height: 100%;
+}
+
+#parallax_header {
+    height: 5rem;
+  }
+
+#parallax_s1 {
+    height: 9rem;
+}
+
+.font_large {
+    font-size: 1.5rem;
+    font-family: 'Candara';
+    color: #424242;
+}
+.font_large_title {
+    padding-left: .8rem;
+    padding-top: .7rem;
+    font-size: 1.8rem;
+    font-family: 'Candara';
+    color: #424242;
+    font-weight: 700;
+}
+
+.font_medium {
+    font-size: 1.4rem;
+    font-family: 'Candara';
+    color: #424242;
+}
+.font_medium_title {
+    padding-left: .8rem;
+    font-size: 1.7rem;
+    font-family: 'Candara';
+    color: #424242;
+    font-weight: 700;
+}
+
+.font_small {
+    font-size: 1.2rem;
+    font-family: 'Candara';
+    color: #424242;
+}
+.font_small_title {
+    padding-left: .8rem;
+    font-size: 1.5rem;
+    font-family: 'Candara';
+    color: #424242;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Old English Text MT';
+}
+
+#imagem_section {
+    max-width: 100%;
+    padding-top: 1.5rem;;
+}
+
+#carousel-item {
+    max-height: 30%;
+}
+
+.pcarousel {
+    text-align: center;
+    font-family: 'Candara';
+    color: #424242;
+}
+
+.pcarousel_title {
+    text-align: center;
+    font-family: 'Candara';
+    color: #424242;
+    padding-top: 1rem;
+}
+
+.btn_carousel{
+    background-color: rgba(0,0,0,0.3);
+}
+
+.btn_carouse2l{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.carousel_card{
+    background-image: url(" wallpaper6.png");
+    background-color: #cccccc;
+    background-position: center;
+}
+
+.grid_carousel{
+    display: grid;
+    background-image: url(" wallpaper_branco.jpg");
+    background-color: #cccccc;
+    background-position: center;
+}
+
+.grid_imagem{
+    grid-row: 1/6;
+    grid-column: 1/12;
+}
+
+.grid_btn1{
+    grid-row: 3/4;
+    grid-column: 1/2;
+    padding-left: 2rem;
+   
+}
+
+.grid_btn2{
+    grid-row: 3/4;
+    grid-column: 11/12;
+    padding-right: 2rem;
+}
+
+.pcard_title{
+    font-size: 1.1rem;
+    font-family: 'Candara';
+    text-align: center;
+    vertical-align: middle;
+    text-align: justify;
+    padding: 0.7rem;
+    padding-top:2.83rem;
+}
+
+.pcard {
+    font-size: 1.2rem;
+    font-family: 'Candara';
+    text-align: center;
+    text-align: justify;
+    padding: .8rem;
+}
+
+a{
+    color: #01579b;
+}
